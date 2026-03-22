@@ -1,6 +1,6 @@
 # Hi there  👋
 
-## The name is Briguyyy.crypto!
+## The name is Briguy!
 
 ### Little about me:
 I work currently as a serviceNow developer for a major tool supply company in the US. My day to day involves automating manual costly processes for the IT department. Right now the new thing I'm learning is Solidity and building up my web3 portfolio. 
